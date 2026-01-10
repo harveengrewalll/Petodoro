@@ -1,0 +1,8 @@
+
+{
+  "name": "Pink Pixel Pomodoro & Pet",
+  "description": "A pink pixel-art study companion with a Pomodoro timer and AI-powered phone detection to keep you focused. Use your phone, and your pet bunny might not make it!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
