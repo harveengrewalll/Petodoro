@@ -28,8 +28,8 @@ Built with **React**, **TailwindCSS**, **TensorFlow.js**, and **Google Gemini Vi
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/pixel-pet-academy.git
-cd pixel-pet-academy
+git clone https://github.com/<your-username>/petodoro.git
+cd petodoro
 ```
 
 ### 2. Install dependencies
