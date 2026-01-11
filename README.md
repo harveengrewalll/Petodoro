@@ -17,9 +17,8 @@ Built with **React**, **TailwindCSS**, **TensorFlow.js**, and **Google Gemini Vi
 ---
 
 ## Demo
+<img width="1469" height="832" alt="Screenshot 2026-01-10 at 6 59 59 PM" src="https://github.com/user-attachments/assets/9a7955c3-eb62-4d27-a78d-61676596b129" />
 
-![Demo Screenshot](./demo-screenshot.png)  
-*(Replace with your own screenshot or GIF)*
 
 ---
 
